@@ -1,2 +1,3 @@
 TT  	Hoten 	MaSV 	Ngaysinh   	phone
 1	a	s	2		09990
+2  Lê Tiến Đạt 155D4802010060 27/02/1997 0373421860
